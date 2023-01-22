@@ -15,5 +15,7 @@ button {
   display:flex;
   flex-direction:row;
   flex-wrap:wrap;
-  background-color:white;
+  background-color: white;
+  justify: center;
+  padding: 30px;
 }
