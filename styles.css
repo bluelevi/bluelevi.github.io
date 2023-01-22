@@ -16,6 +16,14 @@ button {
   flex-direction:row;
   flex-wrap:wrap;
   background-color: white;
-  justify: center;
+  justify-content: center;
   padding: 30px;
+  
+  align-items: center;
 }
+
+.flexcontainer div {
+  width: 100px;
+  height: 100px;
+}
+      
