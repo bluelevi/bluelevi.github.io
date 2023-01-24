@@ -11,6 +11,10 @@ button {
   height:20px;
 }
 
+button:hover {
+  background-color:grey;
+}
+
 .flexcontainer {
   display:flex;
   flex-direction:row;
